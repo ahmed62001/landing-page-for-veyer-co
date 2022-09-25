@@ -1,0 +1,53 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+}
+
+#logo{
+    width: 23%;
+    margin-top: 2%;
+}
+
+#main{
+    width: 100%;
+    position: relative;
+    top: 15px;
+}
+
+.links{
+    text-decoration: none;
+    font-size: 30px;
+    position: relative;
+    bottom: 15px;
+    margin-left: 5%;
+    border-radius: 10px;
+    padding: 5px;
+    color: rgb(255, 67, 16);
+    font-weight: bold;
+    left: 35%;
+}
+
+
+.sections{
+    position: relative;
+    margin-top: 10%;
+
+}
+
+p{
+    width: 80%;
+    margin-left: 3%;
+    margin-top: 2%;
+    font-size: large;
+    margin-bottom: 10%;
+}
+
+h2{
+    color: rgb(255, 67, 16);
+    font-size: 40px;
+}
+
+#card:hover *,
+p:hover {
+    font-size: 30px;
+}
